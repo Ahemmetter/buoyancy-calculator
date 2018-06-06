@@ -7,3 +7,5 @@ The user can select a geometry (so far only sphere), a radius in meters and mate
 The densities are saved in a list and are used to calculate the buoyant force when the Update button is pressed.
 
 The program is made in Python and Tkinter for the graphical interface. The entry for the radius is validated to be a float. If other symbols are typed, it just ignores them and reverts back.
+
+![screenshot](https://github.com/Ahemmetter/buoyancy-calculator/blob/master/buoy-demo.png)
